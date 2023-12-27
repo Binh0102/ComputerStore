@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BaitapLon
+build_property.RootNamespace = BaitapLon
+build_property.ProjectDir = C:\Users\NTB1202\Documents\Zalo Received Files\BaitapLon\BaitapLon\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\NTB1202\Documents\Zalo Received Files\BaitapLon\BaitapLon
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/DonHangs/ChiTietDonHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ3NcQ2hpVGlldERvbkhhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/DonHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/DonHangs/QLDonHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ3NcUUxEb25IYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/DonHangs/QLDonHangAD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ3NcUUxEb25IYW5nQUQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/QLSanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxTYW5QaGFtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/QLSanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxTYW5QaGFtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/QLSanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxTYW5QaGFtXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/QLSanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxTYW5QaGFtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/QLSanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxTYW5QaGFtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/SanPhams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/SanPhams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Users/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTB1202/Documents/Zalo Received Files/BaitapLon/BaitapLon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9eqseulgtp

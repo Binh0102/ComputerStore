@@ -1,0 +1,247 @@
+﻿@model BaitapLon.Models.SanPham
+@{
+	List<SanPham> sp = (List<SanPham>)ViewData["Sanpham"];
+	List<DanhMuc> dm = (List<DanhMuc>)ViewData["DanhMuc"];
+	User user = (User)ViewData["User"];
+}
+<div class="header-top">
+	<div class="container">
+		<div class="row">
+			<!-- HEADER-LEFT-MENU START -->
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+				<div class="header-left-menu">
+					<nav>
+						<ul class="list-inline">
+							@if (user == null)
+							{
+								<li><a href=@Url.ActionLink("Login","Users") style="color:#ffffff">Dang nhap</a></li>
+							}
+							else
+							{
+								@if (user.Admin == 1)
+								{
+									<li><a href=@Url.ActionLink("QLDonHangAD","DonHangs") style="color:#ffffff">Quan ly don hang</a></li>
+									<li><a href=@Url.ActionLink("Index","QLSanPham") style="color:#ffffff">Quan ly san pham</a></li>
+									<li><a href=@Url.ActionLink("Logout","Users") style="color:#ffffff">Dang xuat</a></li>
+								}
+								@if (user.KhachHang == 1)
+								{
+									<li><a style="color:#ffffff">Quan ly don hang</a></li>
+
+									<li><a href=@Url.ActionLink("Logout","Users") style="color:#ffffff">Dang xuat</a></li>
+								}
+							}
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<!-- HEADER-LEFT-MENU END -->
+
+		</div>
+	</div>
+</div>
+<header class="main-menu-area">
+	<div class="container" style="margin-left:-15px">
+		<div class="row">
+			<!-- SHOPPING-CART START -->
+			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 pull-right shopingcartarea">
+				<div class="shopping-cart-out pull-right">
+					<div class="shopping-cart" style="margin-right:20px">
+						<a class="shop-link" href="cart.html" title="View my shopping cart">
+							<i class="fa fa-shopping-cart cart-icon"></i>
+							<b>My Cart</b>
+							<span></span>
+						</a>
+
+					</div>
+				</div>
+			</div>
+			<!-- SHOPPING-CART END -->
+			<!-- MAINMENU START -->
+			<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 no-padding-right menuarea">
+				<div class="mainmenu">
+					<nav>
+						<ul class="list-inline mega-menu">
+							<li class="active">
+								<a href=@Url.ActionLink("Index","SanPhams")>Home</a>
+							</li>
+							@foreach (DanhMuc o in dm)
+							{
+								<li class="active">
+									<a href=@Url.ActionLink("DanhMucDetail","SanPhams", new {id = o.ID})>@o.TenDanhMuc</a>
+								</li>
+							}
+						</ul>
+					</nav>
+
+				</div>
+			</div>
+			<!-- MAINMENU END -->
+		</div>
+
+	</div>
+</header>
+@*<div class="row tow-column-product">
+	<div style="margin-top:50px;width:400px;height:50px">
+		<img src="~/Data/@Model.HinhAnh">
+	</div>
+	<h2 style="padding-left:500px">@Model.TenSanPham</h2>
+	<p style="padding-left:500px">@Model.Gia VND</p>
+	<p style="padding-left:500px">@Model.MoTa</p>
+	<div style="padding-left:500px" class="single-product-add-cart">
+		<a class="add-cart-text" title="Add to cart" href=@Url.ActionLink("ThemSP","Cart", new {id = Model.ID})>Add to cart</a>
+	</div>
+	<div style="width:150px;margin-left:500px;background-color:gray;padding-left:25px">
+		
+		<a href=@Url.ActionLink("ThemSP","Cart", new {id = Model.ID}) style="color:white">Them gio hang</a>
+	</div>
+
+</div>*@
+<div class="container single_product_container">
+	<div class="row">
+		<div class="col-lg-7">
+			<div class="single_product_pics">
+				<div class="row">
+					<div class="col-lg-9 image_col order-lg-2 order-1">
+						<div class="single_product_image">
+							<div class="single_product_image_background">
+								<img src="~/Data/@Model.HinhAnh" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-5">
+			<div class="product_details">
+				<div class="product_details_title">
+					<h2>@Model.TenSanPham</h2>
+					<p>@Model.MoTa</p>
+				</div>
+				<div class="free_delivery d-flex flex-row align-items-center justify-content-center">
+					<span class="ti-truck"></span><span>free delivery</span>
+				</div>
+				<div class="product_price">@Model.Gia VND</div>
+				<div class="single-product-add-cart">
+					<a class="add-cart-text" title="Add to cart" href=@Url.ActionLink("ThemSP","Cart", new {id = Model.ID})>Add to cart</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row tow-column-product">
+	<div>
+		<div class="new-product-area">
+			<h2>San Pham Tuong Tu</h2>
+			<div class="row">
+				<div class="col">
+					<div class="product-grid" data-isotope='{ "itemSelector": ".product-item", "layoutMode": "fitRows" }'>
+						@foreach (SanPham item in sp)
+						{
+							<div class="product-item men">
+								<div class="product discount product_filter">
+									<div class="product_image">
+										<a href=@Url.ActionLink("Details","SanPhams",new {id = item.ID})><img src="~/Data/@item.HinhAnh" alt="product-image" /></a>
+									</div>
+
+									<div class="product_info">
+										<h6 class="product_name"><a href=@Url.ActionLink("Details","SanPhams",new {id = item.ID})>@item.TenSanPham</a></h6>
+										<div class="product_price">@item.Gia</div>
+									</div>
+								</div>
+								<div class="red_button add_to_cart_button"><a href=@Url.ActionLink("ThemSP","Cart", new {id = item.ID})>add to cart</a></div>
+							</div>
+						}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<footer class="border-top footer text-muted">
+	<section class="footer-top-area">
+		<div class="container">
+			<div class="footer-top-container">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<div class="footer-top-left">
+
+							<div class="about-us-area">
+								<h2>About Us</h2>
+								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+							</div>
+							<div class="fllow-us-area">
+								<h2>Follow us</h2>
+								<ul class="flow-us-link">
+									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fa fa-rss"></i></a></li>
+									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+
+						<div class="footer-top-right-2">
+							<div class="row">
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+									<div class="fotter-menu-widget">
+										<div class="single-f-widget">
+											<h2>Categories</h2>
+											<ul>
+												@foreach (DanhMuc o in dm)
+												{
+													<li class="active">
+														<a href=@Url.ActionLink("DanhMucDetail","SanPhams", new {id = o.ID})>@o.TenDanhMuc</a>
+													</li>
+												}
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+									<div class="fotter-menu-widget">
+										<div class="single-f-widget">
+											<h2>Information</h2>
+											<ul>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>Specials</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>New products</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>Best sellers</a></li>
+												<li><a href="contact-us.html"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+									<div class="fotter-menu-widget">
+										<div class="single-f-widget">
+											<h2>My account</h2>
+											<ul>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My orders</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My credit slips</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My addresses</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My personal info</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>Sign out</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+									<div class="payment-method">
+										<img class="img-responsive pull-right" src="img/payment.png" alt="payment-method" />
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</footer>
+
+
+
+
+

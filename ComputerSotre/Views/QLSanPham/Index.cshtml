@@ -1,0 +1,179 @@
+﻿
+@model List<BaitapLon.Models.SanPham>
+@{
+	List<DanhMuc> dm = (List<DanhMuc>)ViewData["DanhMuc"];
+	User user = (User)ViewData["User"];
+}
+<div class="header-top">
+    <div class="container">
+        <div class="row">
+            <!-- HEADER-LEFT-MENU START -->
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="header-left-menu">
+                    <nav>
+                        <ul class="list-inline">
+                            @if (user == null)
+                            {
+                                <li><a href=@Url.ActionLink("Login","Users") style="color:#ffffff">Dang nhap</a></li>
+                            }
+                            else
+                            {
+                                @if (user.Admin == 1)
+                                {
+                                    <li><a href=@Url.ActionLink("QLDonHangAD","DonHangs") style="color:#ffffff">Quan ly don hang</a></li>
+                                    <li><a href=@Url.ActionLink("Index","QLSanPham") style="color:#ffffff">Quan ly san pham</a></li>
+                                    <li><a href=@Url.ActionLink("Logout","Users") style="color:#ffffff">Dang xuat</a></li>
+                                }
+                                @if (user.KhachHang == 1)
+                                {
+                                    <li><a style="color:#ffffff">Quan ly don hang</a></li>
+
+                                    <li><a href=@Url.ActionLink("Logout","Users") style="color:#ffffff">Dang xuat</a></li>
+                                }
+                            }
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- HEADER-LEFT-MENU END -->
+
+        </div>
+    </div>
+</div>
+<header class="main-menu-area">
+    <div class="container" style="margin-left:-15px">
+        <div class="row">
+            <!-- SHOPPING-CART START -->
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 pull-right shopingcartarea" style="padding-left:-20px">
+                <div class="shopping-cart-out pull-right">
+                    <div class="shopping-cart" style="margin-right:20px">
+                        <a class="shop-link" href=@Url.ActionLink("Index","Cart") title="View my shopping cart">
+                            <i class="fa fa-shopping-cart cart-icon"></i>
+                            <b>My Cart</b>
+                            <span></span>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+            <!-- SHOPPING-CART END -->
+            <!-- MAINMENU START -->
+            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 no-padding-right menuarea">
+                <div class="mainmenu">
+                    <nav>
+                        <ul class="list-inline mega-menu">
+                            <li class="active">
+                                <a href=@Url.ActionLink("Index","SanPhams")>Home</a>
+                            </li>
+                            @foreach (DanhMuc o in dm)
+                            {
+                                <li class="active">
+                                    <a href=@Url.ActionLink("DanhMucDetail","SanPhams", new {id = o.ID})>@o.TenDanhMuc</a>
+                                </li>
+                            }
+                        </ul>
+                    </nav>
+
+                </div>
+            </div>
+            <!-- MAINMENU END -->
+        </div>
+
+    </div>
+</header>
+<div class="container-lg">
+    <div class="table-responsive">
+        <div class="table-wrapper">
+            <div class="table-title">
+                <div class="row">
+                    <div class="col-sm-8"><h2>Employee <b>Details</b></h2></div>
+                    <div class="col-sm-4">
+                        <a href=@Url.ActionLink("Create","QLSanPham")><button type="button" class="btn btn-info add-new"><i class="fa fa-plus"></i> Add New</button></a>
+                    </div>
+                </div>
+            </div>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Danh Muc</th>
+                        <th>Gia</th>
+                        <th>MoTa</th>
+                        <th>HinhAnh</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(SanPham item in Model)
+                    {
+                        <tr>
+                            <td>@item.TenSanPham</td>
+                            <td>@item.DanhMuc.TenDanhMuc</td>
+                            <td>@item.Gia</td>
+                            <td>@item.MoTa</td>
+                            <td><img src="~/Data/@item.HinhAnh"/></td>
+                            <td>
+                                <a href="" class="add" title="Add" data-toggle="tooltip"><i class="material-icons">&#xE03B;</i></a>
+                                <a href=@Url.ActionLink("Edit","QLSanPham", new {id = item.ID}) class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons">sua</i></a>
+                                <a href=@Url.ActionLink("Delete","QLSanPham") class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">xoa</i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+@*<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSanPham)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HinhAnh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DanhMuc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSanPham)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HinhAnh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DanhMuc.TenDanhMuc)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+*@

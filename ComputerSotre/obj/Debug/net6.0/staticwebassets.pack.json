@@ -1,0 +1,1033 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BaitapLon.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaitapLon.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\11\\Dell2.jpg",
+      "PackagePath": "staticwebassets\\Data\\11\\Dell2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\1\\Dell1.gif",
+      "PackagePath": "staticwebassets\\Data\\1\\Dell1.gif"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\2\\Dell2.jpg",
+      "PackagePath": "staticwebassets\\Data\\2\\Dell2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\3\\MAC1.jpg",
+      "PackagePath": "staticwebassets\\Data\\3\\MAC1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\4\\HP1.jpg",
+      "PackagePath": "staticwebassets\\Data\\4\\HP1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\5\\Lennovo1.jpg",
+      "PackagePath": "staticwebassets\\Data\\5\\Lennovo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\6\\HP2.jpg",
+      "PackagePath": "staticwebassets\\Data\\6\\HP2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\7\\Lennovo2.jpg",
+      "PackagePath": "staticwebassets\\Data\\7\\Lennovo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\Data\\8\\Dell2.jpg",
+      "PackagePath": "staticwebassets\\Data\\8\\Dell2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\AjaxLoader.html",
+      "PackagePath": "staticwebassets\\css\\AjaxLoader.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\fancybox\\Baobinh.net.url",
+      "PackagePath": "staticwebassets\\css\\fancybox\\Baobinh.net.url"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\css\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\css\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\css\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\css\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\fancybox_loading@2x.html",
+      "PackagePath": "staticwebassets\\css\\fancybox_loading@2x.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\fancybox_sprite@2x.html",
+      "PackagePath": "staticwebassets\\css\\fancybox_sprite@2x.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\ie.css",
+      "PackagePath": "staticwebassets\\css\\ie.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\Baobinh.net.url",
+      "PackagePath": "staticwebassets\\css\\images\\Baobinh.net.url"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\animated-overlay.html",
+      "PackagePath": "staticwebassets\\css\\images\\animated-overlay.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_diagonals-thick_18_b81900_40x40.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_diagonals-thick_18_b81900_40x40.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_diagonals-thick_20_666666_40x40.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_diagonals-thick_20_666666_40x40.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_flat_10_000000_40x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_flat_10_000000_40x100.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_glass_100_f6f6f6_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_100_f6f6f6_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_glass_100_fdf5ce_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_100_fdf5ce_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_glass_65_ffffff_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_65_ffffff_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_gloss-wave_35_f6a828_500x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_gloss-wave_35_f6a828_500x100.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-icons_222222_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_222222_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-icons_228ef1_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_228ef1_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-icons_ef8c08_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_ef8c08_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-icons_ffd27a_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_ffd27a_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\jquery-ui-slider.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\nivo-slider.css",
+      "PackagePath": "staticwebassets\\css\\nivo-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\fontawesome-webfonte0a5.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfonte0a5.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\fontawesome-webfonte0a5.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfonte0a5.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\fontawesome-webfonte0a5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfonte0a5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\fontawesome-webfonte0a5.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfonte0a5.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\fontawesome-webfonte0a5.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfonte0a5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\banner_3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\deal_ofthe_week.png",
+      "PackagePath": "staticwebassets\\images\\deal_ofthe_week.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\desc_1.jpg",
+      "PackagePath": "staticwebassets\\images\\desc_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\desc_2.jpg",
+      "PackagePath": "staticwebassets\\images\\desc_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\desc_3.jpg",
+      "PackagePath": "staticwebassets\\images\\desc_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\map_marker.png",
+      "PackagePath": "staticwebassets\\images\\map_marker.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_1.png",
+      "PackagePath": "staticwebassets\\images\\product_1.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_10.png",
+      "PackagePath": "staticwebassets\\images\\product_10.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_2.png",
+      "PackagePath": "staticwebassets\\images\\product_2.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_3.png",
+      "PackagePath": "staticwebassets\\images\\product_3.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_4.png",
+      "PackagePath": "staticwebassets\\images\\product_4.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_5.png",
+      "PackagePath": "staticwebassets\\images\\product_5.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_6.png",
+      "PackagePath": "staticwebassets\\images\\product_6.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_7.png",
+      "PackagePath": "staticwebassets\\images\\product_7.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_8.png",
+      "PackagePath": "staticwebassets\\images\\product_8.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\product_9.png",
+      "PackagePath": "staticwebassets\\images\\product_9.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\single_1.jpg",
+      "PackagePath": "staticwebassets\\images\\single_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\single_1_thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\single_1_thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\single_2.jpg",
+      "PackagePath": "staticwebassets\\images\\single_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\single_2_thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\single_2_thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\single_3.jpg",
+      "PackagePath": "staticwebassets\\images\\single_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\single_3_thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\single_3_thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\images\\slider_1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\Master-Card-icon.png",
+      "PackagePath": "staticwebassets\\img\\Master-Card-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\bank.png",
+      "PackagePath": "staticwebassets\\img\\bank.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\bankwire.png",
+      "PackagePath": "staticwebassets\\img\\bankwire.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\img\\brand\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\img\\brand\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\img\\brand\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\img\\brand\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\img\\brand\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\bs-after-q.png",
+      "PackagePath": "staticwebassets\\img\\bs-after-q.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\bs-before-q.png",
+      "PackagePath": "staticwebassets\\img\\bs-before-q.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\caret.png",
+      "PackagePath": "staticwebassets\\img\\caret.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\category-header.jpg",
+      "PackagePath": "staticwebassets\\img\\category-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\cheque.png",
+      "PackagePath": "staticwebassets\\img\\cheque.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\controls.png",
+      "PackagePath": "staticwebassets\\img\\controls.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\delivery-method.jpg",
+      "PackagePath": "staticwebassets\\img\\delivery-method.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\grabbing.png",
+      "PackagePath": "staticwebassets\\img\\grabbing.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\latest-news\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\latest-news\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\latest-news\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\latest-news\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\latest-news\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\latest-news\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\layout2\\1.png",
+      "PackagePath": "staticwebassets\\img\\layout2\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\layout2\\2.png",
+      "PackagePath": "staticwebassets\\img\\layout2\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\layout2\\3.png",
+      "PackagePath": "staticwebassets\\img\\layout2\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\layout2\\4.png",
+      "PackagePath": "staticwebassets\\img\\layout2\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\layout2\\5.png",
+      "PackagePath": "staticwebassets\\img\\layout2\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\layout2\\6.png",
+      "PackagePath": "staticwebassets\\img\\layout2\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\layout2\\7.png",
+      "PackagePath": "staticwebassets\\img\\layout2\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\order-step-a.png",
+      "PackagePath": "staticwebassets\\img\\order-step-a.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\order-step-current.png",
+      "PackagePath": "staticwebassets\\img\\order-step-current.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\order-step-done-last.html",
+      "PackagePath": "staticwebassets\\img\\order-step-done-last.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\order-step-done.html",
+      "PackagePath": "staticwebassets\\img\\order-step-done.html"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\paypal-icon.png",
+      "PackagePath": "staticwebassets\\img\\paypal-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\bkg_product_tab.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\bkg_product_tab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\cart-image1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cart-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\cart-image2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cart-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\cart-image3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cart-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\cms11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cms11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\cms21.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cms21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\cms22.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cms22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\one-helf1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\one-helf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\one-helf2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\one-helf2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sale\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sale\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\shope-add1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shope-add1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\shope-add12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shope-add12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\shope-add2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shope-add2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\shope-add22.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shope-add22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sidebar_product\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sidebar_product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sidebar_product\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sidebar_product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sidebar_product\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sidebar_product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sidebar_product\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sidebar_product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sidebar_product\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sidebar_product\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\product\\sidebar_product\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sidebar_product\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\shopping-image.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\shopping-image2.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\img\\slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\slider\\homepage2\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\homepage2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\slider\\homepage2\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\homepage2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\testimon-after.gif",
+      "PackagePath": "staticwebassets\\img\\testimon-after.gif"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\wishlist\\faded-short-sleeves-tshirt.jpg",
+      "PackagePath": "staticwebassets\\img\\wishlist\\faded-short-sleeves-tshirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\wishlist\\printed-chiffon-dress.jpg",
+      "PackagePath": "staticwebassets\\img\\wishlist\\printed-chiffon-dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\wishlist\\printed-dress.jpg",
+      "PackagePath": "staticwebassets\\img\\wishlist\\printed-dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\img\\wishlist\\printed-summer-dress.jpg",
+      "PackagePath": "staticwebassets\\img\\wishlist\\printed-summer-dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\categories_custom.js",
+      "PackagePath": "staticwebassets\\js\\categories_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\contact_custom.js",
+      "PackagePath": "staticwebassets\\js\\contact_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.bxslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\jquery.nivo.slider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\jqueryui.js",
+      "PackagePath": "staticwebassets\\js\\jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\single_custom.js",
+      "PackagePath": "staticwebassets\\js\\single_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\vendor\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\vendor\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\Isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\Isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\bootstrap\\bootstrap.min4.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap\\bootstrap.min4.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\bootstrap\\popper.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\categories_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\categories_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\categories_styles.css",
+      "PackagePath": "staticwebassets\\styles\\categories_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\contact_styles.css",
+      "PackagePath": "staticwebassets\\styles\\contact_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\single_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\single_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\NTB1202\\Documents\\Zalo Received Files\\BaitapLon\\BaitapLon\\wwwroot\\styles\\single_styles.css",
+      "PackagePath": "staticwebassets\\styles\\single_styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BaitapLon.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BaitapLon.props",
+      "PackagePath": "build\\BaitapLon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BaitapLon.props",
+      "PackagePath": "buildMultiTargeting\\BaitapLon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BaitapLon.props",
+      "PackagePath": "buildTransitive\\BaitapLon.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,199 @@
+﻿@model List<BaitapLon.Models.SanPham>
+@{
+	List<DanhMuc> dm = (List<DanhMuc>)ViewData["DanhMuc"];
+	User user = (User)ViewData["User"];
+}
+<div class="header-top">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+				<div class="header-left-menu">
+					<nav>
+						<ul class="list-inline">
+							@if (user == null)
+							{
+								<li><a href=@Url.ActionLink("Login","Users") style="color:#ffffff">Dang nhap</a></li>
+							}
+							else
+							{
+								@if(user.Admin == 1)
+								{
+									<li><a href=@Url.ActionLink("QLDonHangAD","DonHangs") style="color:#ffffff">Quan ly don hang</a></li>
+									<li><a href=@Url.ActionLink("Index","QLSanPham") style="color:#ffffff">Quan ly san pham</a></li>
+									<li><a href=@Url.ActionLink("Logout","Users") style="color:#ffffff">Dang xuat</a></li>
+								}
+								@if (user.KhachHang == 1)
+								{
+									<li><a href=@Url.ActionLink("QLDonHang","DonHangs") style="color:#ffffff">Quan ly don hang</a></li>
+									
+									<li><a href=@Url.ActionLink("Logout","Users") style="color:#ffffff">Dang xuat</a></li>
+								}
+							}
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<header class="main-menu-area">
+	<div class="container" style="margin-left:-15px">
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 pull-right shopingcartarea" style="padding-left:-20px">
+				<div class="shopping-cart-out pull-right">
+					<div class="shopping-cart" style="margin-right:20px">
+						<a class="shop-link" href=@Url.ActionLink("Index","Cart") title="View my shopping cart">
+							<i class="fa fa-shopping-cart cart-icon"></i>
+							<b>My Cart</b>
+							<span></span>
+						</a>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 no-padding-right menuarea">
+				<div class="mainmenu">
+					<nav>
+						<ul class="list-inline mega-menu">
+							<li class="active">
+								<a href=@Url.ActionLink("Index","SanPhams")>Home</a>
+							</li>
+							@foreach (DanhMuc o in dm)
+							{
+								<li class="active">
+									<a href=@Url.ActionLink("DanhMucDetail","SanPhams", new {id = o.ID})>@o.TenDanhMuc</a>
+								</li>
+							}
+						</ul>
+					</nav>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</header>
+<div class="main_slider" style="background-image:url(/img/slider.jpg);margin-top: 0px;">
+	<div class="container fill_height">
+		<div class="row align-items-center fill_height">
+			<div class="col">
+				<div class="main_slider_content"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row tow-column-product">
+	<div>
+		<div class="new-product-area">
+		
+			<div class="row">
+				<div class="col">
+					<div class="product-grid" data-isotope='{ "itemSelector": ".product-item", "layoutMode": "fitRows" }'>
+
+						@foreach (SanPham item in Model)
+						{
+							<div class="product-item men">
+								<div class="product discount product_filter">
+									<div class="product_image">
+									<a href=@Url.ActionLink("Details","SanPhams",new {id = item.ID})><img src="~/Data/@item.HinhAnh" alt="product-image" /></a>
+									</div>
+							
+									<div class="product_info">
+										<h6 class="product_name"><a href=@Url.ActionLink("Details","SanPhams",new {id = item.ID})>@item.TenSanPham</a></h6>
+										<div class="product_price">@item.Gia</div>
+									</div>
+								</div>
+							<div class="red_button add_to_cart_button"><a href=@Url.ActionLink("ThemSP","Cart", new {id = item.ID})>add to cart</a></div>
+							</div>
+						}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<footer class="border-top footer text-muted">
+	<section class="footer-top-area">
+		<div class="container">
+			<div class="footer-top-container">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<div class="footer-top-left">
+
+							<div class="about-us-area">
+								<h2>About Us</h2>
+								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+							</div>
+							<div class="fllow-us-area">
+								<h2>Follow us</h2>
+								<ul class="flow-us-link">
+									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fa fa-rss"></i></a></li>
+									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+
+						<div class="footer-top-right-2">
+							<div class="row">
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+									<div class="fotter-menu-widget">
+										<div class="single-f-widget">
+											<h2>Categories</h2>
+											<ul>
+												@foreach (DanhMuc o in dm)
+												{
+													<li class="active">
+														<a href=@Url.ActionLink("DanhMucDetail","SanPhams", new {id = o.ID})>@o.TenDanhMuc</a>
+													</li>
+												}
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+									<div class="fotter-menu-widget">
+										<div class="single-f-widget">
+											<h2>Information</h2>
+											<ul>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>Specials</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>New products</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>Best sellers</a></li>
+												<li><a href="contact-us.html"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+									<div class="fotter-menu-widget">
+										<div class="single-f-widget">
+											<h2>My account</h2>
+											<ul>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My orders</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My credit slips</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My addresses</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>My personal info</a></li>
+												<li><a href="#"><i class="fa fa-angle-double-right"></i>Sign out</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+									<div class="payment-method">
+										<img class="img-responsive pull-right" src="img/payment.png" alt="payment-method" />
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</footer>
+
+
+
